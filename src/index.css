@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.londrina-outline-regular {
+    font-family: "Londrina Outline", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
